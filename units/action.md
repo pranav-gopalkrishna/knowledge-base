@@ -1,0 +1,12 @@
+# Action
+A [*change*](./change.md) in or by an entity.
+
+---
+
+The above can be expanded as: a change in the entity's attributes or by the entity's contact with some part of reality, either directly (i.e. through contact) or indirectly (i.e. through some medium). Now, nothing exists apart from entities, and, by the law of non-contradiction, nothing can exist in contradiction to the identities of entities. Thus, we also have that, since (1) a change is a relationship between parts of an entity or between two or more entities, and thus, since (2) a change has an identity that is dependent on the things being related, no change exists apart from nor in contradiction to the identities of entities.
+
+Now, an action of an entity, being a change directly tied to an entity, is the fundamental form of change (since an indirect connection implies a chain of connections that, in the end, resolves in a direct connection). Given our premises so far, an action can exist neither apart from nor in contradiction to an entity and its identity; an action is thus an inseparable part of the entity's identity (just to clarify, an action is inseparable from the entity, the entity is inseparable from its identity, thus the action is inseparable from the entity's identity). Thus, an entity's action cannot in any way be arbitrary (i.e. without a basis in the entity's identity), and cannot be impossible to the entity's identity. Hence, an action is an expression and extension of the entity's identity; what an entity is and what it does are inextricably tied together.
+
+**SIDE NOTE**: _Even a conscious being exists independent of consciousness; consciousness is an aspect of such a being that is inseparable from the being as a whole. Hence, consciousness is not an entity but does exist as an aspect of an entity. Therefore, man acts with consciousness, but consciousness does not "act" by itself, i.e. independent of the entity that is man._
+
+It is key to identify an entity's action as the fundamental form of change, because it makes it clear that while there can be changes in things other than entities (e.g. attributes, events, thoughts, feelings, etc.), these changes are ultimately tied to entities and their actions. Consider: if a change happens in an attribute, or an event, or a thought, or a feeling, the natural questions are (1) an attribute of what (i.e. what entity)? (2) an event involving what (i.e. what entities)? (3) a thought or feeling of what or of whom (i.e. what being, which is also an entity)?
