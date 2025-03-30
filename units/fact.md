@@ -3,4 +3,4 @@ The [*identity*](./identity) of some part of [*existence*](./existence.md#existe
 
 ---
 
-**Tightly-related concept**: [*Truth*](./truth)
+**Tightly-related concept**: [*Truth*](./truth.md)
