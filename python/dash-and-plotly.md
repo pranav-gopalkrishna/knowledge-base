@@ -1,4 +1,4 @@
-<h1>PYTHON PLOTLY AND DASH</h1>
+<h1>DASH AND PLOTLY</h1>
 
 ---
 
