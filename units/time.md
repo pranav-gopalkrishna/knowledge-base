@@ -1,5 +1,5 @@
 # Time
-The [*measure*](./measure) of [*change*](./change).
+The [*measure*](./measure.md) of [*change*](./change.md).
 
 ---
 
