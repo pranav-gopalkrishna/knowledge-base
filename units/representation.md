@@ -1,5 +1,5 @@
 # Representation
-Mapping the ensures correspondence in [*identity*](./identity.md) within a context.
+Mapping that ensures correspondence in [*identity*](./identity.md) within a context.
 
 ---
 
